@@ -13,7 +13,7 @@ body {:root {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(40, 139, 139);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
